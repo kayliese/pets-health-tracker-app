@@ -2,6 +2,9 @@
 
 This is a React Native mobile application that allows pet owners to monitor and track their pet's health and well-being. The app includes features such as tracking daily activities, logging health metrics, taking notes, scheduling appointments, and reading articles and news related to pet health.
 
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/49692061/226751556-d9ede100-4475-40dd-a474-e0a7066b34a3.png">
+
+
 ## Screens
 
 The app includes four main screens:
@@ -50,6 +53,3 @@ To run the app, clone this repository, navigate to the project directory, and in
 
 Contributions to this project are welcome. If you would like to contribute, please submit a pull request with your changes.
 
-
-
-!<img width="481" alt="Screen Shot 2022-07-20 at 4 14 06 PM" src="https://user-images.githubusercontent.com/49692061/180073576-e04b822b-3242-4e82-bc55-9af969d30c51.png"  width="300" height="700">
