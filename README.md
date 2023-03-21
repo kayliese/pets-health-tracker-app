@@ -41,12 +41,13 @@ Follow the instructions in the AWS Amplify documentation to install the Amplify 
 
 4. Run the app:
 
+```
 react-native run-android
+```
 
-or
-
+```
 react-native run-ios
-
+```
 
 ## Built With
 
